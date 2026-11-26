@@ -1,0 +1,2896 @@
+{
+ "fps": 30,
+ "total": 93.076,
+ "beats": [
+  {
+   "id": "b01",
+   "text": "In this town, everybody parties every night.",
+   "start": 0.15,
+   "end": 2.451,
+   "words": [
+    {
+     "w": "In",
+     "s": 0.15,
+     "e": 0.25
+    },
+    {
+     "w": "this",
+     "s": 0.25,
+     "e": 0.39
+    },
+    {
+     "w": "town,",
+     "s": 0.39,
+     "e": 0.67
+    },
+    {
+     "w": "everybody",
+     "s": 0.87,
+     "e": 1.25
+    },
+    {
+     "w": "parties",
+     "s": 1.25,
+     "e": 1.67
+    },
+    {
+     "w": "every",
+     "s": 1.67,
+     "e": 2.01
+    },
+    {
+     "w": "night.",
+     "s": 2.01,
+     "e": 2.27
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "town_aerial",
+     "p": {
+      "party": true
+     }
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "text": "Except me.",
+   "start": 2.671,
+   "end": 3.402,
+   "words": [
+    {
+     "w": "Except",
+     "s": 2.671,
+     "e": 2.911
+    },
+    {
+     "w": "me.",
+     "s": 2.911,
+     "e": 3.191
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_close_night",
+     "p": {
+      "face": "neutral"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "text": "Kriuk! Kriuk! Kriuk!",
+   "start": 3.623,
+   "end": 5.141,
+   "words": [
+    {
+     "w": "Kriuk!",
+     "s": 3.623,
+     "e": 4.221
+    },
+    {
+     "w": "Kriuk!",
+     "s": 4.083,
+     "e": 4.681
+    },
+    {
+     "w": "Kriuk!",
+     "s": 4.543,
+     "e": 5.141
+    }
+   ],
+   "kriuk": true,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_eat_chip",
+     "p": {
+      "night": true
+     }
+    },
+    {
+     "at": 1,
+     "scene": "hero_dribble_night"
+    },
+    {
+     "at": 2,
+     "scene": "hoop_swish_night"
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "text": "You see, every single night, there's a party somewhere.",
+   "start": 5.361,
+   "end": 7.732,
+   "words": [
+    {
+     "w": "You",
+     "s": 5.361,
+     "e": 5.441
+    },
+    {
+     "w": "see,",
+     "s": 5.441,
+     "e": 5.581
+    },
+    {
+     "w": "every",
+     "s": 5.741,
+     "e": 5.941
+    },
+    {
+     "w": "single",
+     "s": 5.941,
+     "e": 6.221
+    },
+    {
+     "w": "night,",
+     "s": 6.221,
+     "e": 6.501
+    },
+    {
+     "w": "there's",
+     "s": 6.661,
+     "e": 6.801
+    },
+    {
+     "w": "a",
+     "s": 6.801,
+     "e": 6.841
+    },
+    {
+     "w": "party",
+     "s": 6.841,
+     "e": 7.121
+    },
+    {
+     "w": "somewhere.",
+     "s": 7.121,
+     "e": 7.481
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "street_night",
+     "p": {
+      "party": true
+     }
+    },
+    {
+     "at": 5,
+     "scene": "party_house"
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "text": "Pool parties. Karaoke parties. Even a birthday party for the mayor's goldfish.",
+   "start": 7.952,
+   "end": 12.46,
+   "words": [
+    {
+     "w": "Pool",
+     "s": 7.952,
+     "e": 8.152
+    },
+    {
+     "w": "parties.",
+     "s": 8.152,
+     "e": 8.612
+    },
+    {
+     "w": "Karaoke",
+     "s": 8.792,
+     "e": 9.272
+    },
+    {
+     "w": "parties.",
+     "s": 9.272,
+     "e": 9.612
+    },
+    {
+     "w": "Even",
+     "s": 10.032,
+     "e": 10.252
+    },
+    {
+     "w": "a",
+     "s": 10.252,
+     "e": 10.372
+    },
+    {
+     "w": "birthday",
+     "s": 10.372,
+     "e": 10.652
+    },
+    {
+     "w": "party",
+     "s": 10.652,
+     "e": 11.052
+    },
+    {
+     "w": "for",
+     "s": 11.052,
+     "e": 11.272
+    },
+    {
+     "w": "the",
+     "s": 11.272,
+     "e": 11.372
+    },
+    {
+     "w": "mayor's",
+     "s": 11.372,
+     "e": 11.752
+    },
+    {
+     "w": "goldfish.",
+     "s": 11.752,
+     "e": 12.212
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "pool_party"
+    },
+    {
+     "at": 2,
+     "scene": "karaoke_party"
+    },
+    {
+     "at": 4,
+     "scene": "goldfish_birthday"
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "text": "Nobody here practices anything. Why would they?",
+   "start": 12.68,
+   "end": 15.121,
+   "words": [
+    {
+     "w": "Nobody",
+     "s": 12.68,
+     "e": 12.98
+    },
+    {
+     "w": "here",
+     "s": 12.98,
+     "e": 13.26
+    },
+    {
+     "w": "practices",
+     "s": 13.26,
+     "e": 13.74
+    },
+    {
+     "w": "anything.",
+     "s": 13.74,
+     "e": 14.16
+    },
+    {
+     "w": "Why",
+     "s": 14.44,
+     "e": 14.6
+    },
+    {
+     "w": "would",
+     "s": 14.6,
+     "e": 14.82
+    },
+    {
+     "w": "they?",
+     "s": 14.82,
+     "e": 14.98
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "empty_court_day"
+    },
+    {
+     "at": 4,
+     "scene": "dancer_shrug"
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "text": "My best friend Bayu goes to every party.",
+   "start": 15.341,
+   "end": 17.484,
+   "words": [
+    {
+     "w": "My",
+     "s": 15.341,
+     "e": 15.441
+    },
+    {
+     "w": "best",
+     "s": 15.441,
+     "e": 15.661
+    },
+    {
+     "w": "friend",
+     "s": 15.661,
+     "e": 15.941
+    },
+    {
+     "w": "Bayu",
+     "s": 15.941,
+     "e": 16.261
+    },
+    {
+     "w": "goes",
+     "s": 16.261,
+     "e": 16.421
+    },
+    {
+     "w": "to",
+     "s": 16.421,
+     "e": 16.621
+    },
+    {
+     "w": "every",
+     "s": 16.621,
+     "e": 16.881
+    },
+    {
+     "w": "party.",
+     "s": 16.881,
+     "e": 17.221
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "friend_party",
+     "p": {
+      "who": "bayu"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "text": "My neighbor Sari goes to every party.",
+   "start": 17.704,
+   "end": 19.545,
+   "words": [
+    {
+     "w": "My",
+     "s": 17.704,
+     "e": 17.804
+    },
+    {
+     "w": "neighbor",
+     "s": 17.804,
+     "e": 17.984
+    },
+    {
+     "w": "Sari",
+     "s": 17.984,
+     "e": 18.344
+    },
+    {
+     "w": "goes",
+     "s": 18.344,
+     "e": 18.544
+    },
+    {
+     "w": "to",
+     "s": 18.544,
+     "e": 18.744
+    },
+    {
+     "w": "every",
+     "s": 18.744,
+     "e": 18.964
+    },
+    {
+     "w": "party.",
+     "s": 18.964,
+     "e": 19.284
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "friend_party",
+     "p": {
+      "who": "sari"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "text": "Even my grandma goes dancing on Tuesdays.",
+   "start": 19.765,
+   "end": 22.032,
+   "words": [
+    {
+     "w": "Even",
+     "s": 19.765,
+     "e": 19.905
+    },
+    {
+     "w": "my",
+     "s": 19.905,
+     "e": 20.105
+    },
+    {
+     "w": "grandma",
+     "s": 20.105,
+     "e": 20.405
+    },
+    {
+     "w": "goes",
+     "s": 20.405,
+     "e": 20.745
+    },
+    {
+     "w": "dancing",
+     "s": 20.745,
+     "e": 21.165
+    },
+    {
+     "w": "on",
+     "s": 21.165,
+     "e": 21.365
+    },
+    {
+     "w": "Tuesdays.",
+     "s": 21.365,
+     "e": 21.965
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "friend_party",
+     "p": {
+      "who": "grandma"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "text": "But not me.",
+   "start": 22.252,
+   "end": 22.977,
+   "words": [
+    {
+     "w": "But",
+     "s": 22.252,
+     "e": 22.332
+    },
+    {
+     "w": "not",
+     "s": 22.332,
+     "e": 22.492
+    },
+    {
+     "w": "me.",
+     "s": 22.492,
+     "e": 22.732
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_close_night",
+     "p": {
+      "face": "determined",
+      "ball": true
+     }
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "text": "Kriuk! Kriuk! Kriuk!",
+   "start": 23.197,
+   "end": 24.716,
+   "words": [
+    {
+     "w": "Kriuk!",
+     "s": 23.197,
+     "e": 23.796
+    },
+    {
+     "w": "Kriuk!",
+     "s": 23.657,
+     "e": 24.256
+    },
+    {
+     "w": "Kriuk!",
+     "s": 24.117,
+     "e": 24.716
+    }
+   ],
+   "kriuk": true,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_eat_chip",
+     "p": {
+      "night": true,
+      "flavor": "pedas"
+     }
+    },
+    {
+     "at": 1,
+     "scene": "hero_dribble_night",
+     "p": {
+      "angle": 1
+     }
+    },
+    {
+     "at": 2,
+     "scene": "hoop_swish_night",
+     "p": {
+      "angle": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "text": "One hundred shots. One bag of Keripik Goyang. Every single night.",
+   "start": 24.936,
+   "end": 28.649,
+   "words": [
+    {
+     "w": "One",
+     "s": 24.936,
+     "e": 25.096
+    },
+    {
+     "w": "hundred",
+     "s": 25.096,
+     "e": 25.396
+    },
+    {
+     "w": "shots.",
+     "s": 25.396,
+     "e": 25.756
+    },
+    {
+     "w": "One",
+     "s": 26.076,
+     "e": 26.176
+    },
+    {
+     "w": "bag",
+     "s": 26.176,
+     "e": 26.436
+    },
+    {
+     "w": "of",
+     "s": 26.436,
+     "e": 26.596
+    },
+    {
+     "w": "Keripik",
+     "s": 26.596,
+     "e": 27.016
+    },
+    {
+     "w": "Goyang.",
+     "s": 27.016,
+     "e": 27.516
+    },
+    {
+     "w": "Every",
+     "s": 27.656,
+     "e": 27.876
+    },
+    {
+     "w": "single",
+     "s": 27.876,
+     "e": 28.176
+    },
+    {
+     "w": "night.",
+     "s": 28.176,
+     "e": 28.456
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hoop_swish_night",
+     "p": {
+      "angle": 2,
+      "balls": true
+     }
+    },
+    {
+     "at": 3,
+     "scene": "pouch_bench_night"
+    },
+    {
+     "at": 8,
+     "scene": "moon_timelapse"
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "text": "Then came the biggest party of the year. The Summer Party Basketball Game!",
+   "start": 28.869,
+   "end": 32.78,
+   "words": [
+    {
+     "w": "Then",
+     "s": 28.869,
+     "e": 28.989
+    },
+    {
+     "w": "came",
+     "s": 28.989,
+     "e": 29.249
+    },
+    {
+     "w": "the",
+     "s": 29.249,
+     "e": 29.429
+    },
+    {
+     "w": "biggest",
+     "s": 29.429,
+     "e": 29.709
+    },
+    {
+     "w": "party",
+     "s": 29.709,
+     "e": 30.129
+    },
+    {
+     "w": "of",
+     "s": 30.129,
+     "e": 30.329
+    },
+    {
+     "w": "the",
+     "s": 30.329,
+     "e": 30.449
+    },
+    {
+     "w": "year.",
+     "s": 30.449,
+     "e": 30.709
+    },
+    {
+     "w": "The",
+     "s": 31.009,
+     "e": 31.109
+    },
+    {
+     "w": "Summer",
+     "s": 31.109,
+     "e": 31.349
+    },
+    {
+     "w": "Party",
+     "s": 31.349,
+     "e": 31.689
+    },
+    {
+     "w": "Basketball",
+     "s": 31.689,
+     "e": 32.329
+    },
+    {
+     "w": "Game!",
+     "s": 32.329,
+     "e": 32.589
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "court_day_wide"
+    },
+    {
+     "at": 8,
+     "scene": "court_banner"
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "text": "Everybody showed up in party hats. When I walked onto the court, everybody laughed.",
+   "start": 33.0,
+   "end": 37.444,
+   "words": [
+    {
+     "w": "Everybody",
+     "s": 33.0,
+     "e": 33.4
+    },
+    {
+     "w": "showed",
+     "s": 33.4,
+     "e": 33.76
+    },
+    {
+     "w": "up",
+     "s": 33.76,
+     "e": 33.96
+    },
+    {
+     "w": "in",
+     "s": 33.96,
+     "e": 34.12
+    },
+    {
+     "w": "party",
+     "s": 34.12,
+     "e": 34.42
+    },
+    {
+     "w": "hats.",
+     "s": 34.42,
+     "e": 34.8
+    },
+    {
+     "w": "When",
+     "s": 35.04,
+     "e": 35.24
+    },
+    {
+     "w": "I",
+     "s": 35.24,
+     "e": 35.36
+    },
+    {
+     "w": "walked",
+     "s": 35.36,
+     "e": 35.62
+    },
+    {
+     "w": "onto",
+     "s": 35.62,
+     "e": 35.82
+    },
+    {
+     "w": "the",
+     "s": 35.82,
+     "e": 36.0
+    },
+    {
+     "w": "court,",
+     "s": 36.0,
+     "e": 36.26
+    },
+    {
+     "w": "everybody",
+     "s": 36.52,
+     "e": 36.78
+    },
+    {
+     "w": "laughed.",
+     "s": 36.78,
+     "e": 37.18
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "crowd",
+     "p": {
+      "mood": "cheer"
+     }
+    },
+    {
+     "at": 6,
+     "scene": "hero_walk_court"
+    },
+    {
+     "at": 12,
+     "scene": "crowd",
+     "p": {
+      "mood": "laugh",
+      "angle": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "text": "Who's the kid with the chips?",
+   "start": 37.664,
+   "end": 38.82,
+   "words": [
+    {
+     "w": "Who's",
+     "s": 37.664,
+     "e": 37.824
+    },
+    {
+     "w": "the",
+     "s": 37.824,
+     "e": 37.924
+    },
+    {
+     "w": "kid",
+     "s": 37.924,
+     "e": 38.084
+    },
+    {
+     "w": "with",
+     "s": 38.084,
+     "e": 38.244
+    },
+    {
+     "w": "the",
+     "s": 38.244,
+     "e": 38.344
+    },
+    {
+     "w": "chips?",
+     "s": 38.344,
+     "e": 38.524
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "bayu_point_laugh"
+    }
+   ]
+  },
+  {
+   "id": "b16",
+   "text": "Then I got the ball.",
+   "start": 39.04,
+   "end": 39.943,
+   "words": [
+    {
+     "w": "Then",
+     "s": 39.04,
+     "e": 39.16
+    },
+    {
+     "w": "I",
+     "s": 39.16,
+     "e": 39.22
+    },
+    {
+     "w": "got",
+     "s": 39.22,
+     "e": 39.36
+    },
+    {
+     "w": "the",
+     "s": 39.36,
+     "e": 39.5
+    },
+    {
+     "w": "ball.",
+     "s": 39.5,
+     "e": 39.72
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_catch_day"
+    }
+   ]
+  },
+  {
+   "id": "b17",
+   "text": "Kriuk! Kriuk! Kriuk!",
+   "start": 40.163,
+   "end": 41.682,
+   "words": [
+    {
+     "w": "Kriuk!",
+     "s": 40.163,
+     "e": 40.762
+    },
+    {
+     "w": "Kriuk!",
+     "s": 40.623,
+     "e": 41.222
+    },
+    {
+     "w": "Kriuk!",
+     "s": 41.083,
+     "e": 41.682
+    }
+   ],
+   "kriuk": true,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_dribble_day"
+    },
+    {
+     "at": 1,
+     "scene": "hero_dribble_day",
+     "p": {
+      "angle": 1
+     }
+    },
+    {
+     "at": 2,
+     "scene": "hoop_swish_day"
+    }
+   ]
+  },
+  {
+   "id": "b18",
+   "text": "Fifty points. All by myself.",
+   "start": 41.902,
+   "end": 43.4,
+   "words": [
+    {
+     "w": "Fifty",
+     "s": 41.902,
+     "e": 42.122
+    },
+    {
+     "w": "points.",
+     "s": 42.122,
+     "e": 42.382
+    },
+    {
+     "w": "All",
+     "s": 42.542,
+     "e": 42.602
+    },
+    {
+     "w": "by",
+     "s": 42.602,
+     "e": 42.782
+    },
+    {
+     "w": "myself.",
+     "s": 42.782,
+     "e": 43.022
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "scoreboard"
+    },
+    {
+     "at": 2,
+     "scene": "hero_proud_day"
+    }
+   ]
+  },
+  {
+   "id": "b19",
+   "text": "The music stopped. The whole crowd went silent.",
+   "start": 43.62,
+   "end": 45.908,
+   "words": [
+    {
+     "w": "The",
+     "s": 43.62,
+     "e": 43.72
+    },
+    {
+     "w": "music",
+     "s": 43.72,
+     "e": 43.92
+    },
+    {
+     "w": "stopped.",
+     "s": 43.92,
+     "e": 44.3
+    },
+    {
+     "w": "The",
+     "s": 44.52,
+     "e": 44.56
+    },
+    {
+     "w": "whole",
+     "s": 44.56,
+     "e": 44.74
+    },
+    {
+     "w": "crowd",
+     "s": 44.74,
+     "e": 45.06
+    },
+    {
+     "w": "went",
+     "s": 45.06,
+     "e": 45.28
+    },
+    {
+     "w": "silent.",
+     "s": 45.28,
+     "e": 45.6
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "speaker_stop"
+    },
+    {
+     "at": 3,
+     "scene": "crowd",
+     "p": {
+      "mood": "shock",
+      "angle": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "b20",
+   "text": "Bayu walked up to me and asked,",
+   "start": 46.128,
+   "end": 47.496,
+   "words": [
+    {
+     "w": "Bayu",
+     "s": 46.128,
+     "e": 46.368
+    },
+    {
+     "w": "walked",
+     "s": 46.368,
+     "e": 46.548
+    },
+    {
+     "w": "up",
+     "s": 46.548,
+     "e": 46.648
+    },
+    {
+     "w": "to",
+     "s": 46.648,
+     "e": 46.788
+    },
+    {
+     "w": "me",
+     "s": 46.788,
+     "e": 46.888
+    },
+    {
+     "w": "and",
+     "s": 46.888,
+     "e": 46.988
+    },
+    {
+     "w": "asked,",
+     "s": 46.988,
+     "e": 47.308
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "bayu_walkup"
+    }
+   ]
+  },
+  {
+   "id": "b21",
+   "text": "When did you get so good?",
+   "start": 47.716,
+   "end": 48.824,
+   "words": [
+    {
+     "w": "When",
+     "s": 47.716,
+     "e": 47.836
+    },
+    {
+     "w": "did",
+     "s": 47.836,
+     "e": 47.956
+    },
+    {
+     "w": "you",
+     "s": 47.956,
+     "e": 48.036
+    },
+    {
+     "w": "get",
+     "s": 48.036,
+     "e": 48.196
+    },
+    {
+     "w": "so",
+     "s": 48.196,
+     "e": 48.356
+    },
+    {
+     "w": "good?",
+     "s": 48.356,
+     "e": 48.596
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "bayu_ask"
+    }
+   ]
+  },
+  {
+   "id": "b22",
+   "text": "I told him the truth.",
+   "start": 49.044,
+   "end": 50.073,
+   "words": [
+    {
+     "w": "I",
+     "s": 49.044,
+     "e": 49.144
+    },
+    {
+     "w": "told",
+     "s": 49.144,
+     "e": 49.304
+    },
+    {
+     "w": "him",
+     "s": 49.304,
+     "e": 49.484
+    },
+    {
+     "w": "the",
+     "s": 49.484,
+     "e": 49.584
+    },
+    {
+     "w": "truth.",
+     "s": 49.584,
+     "e": 49.884
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_truth"
+    }
+   ]
+  },
+  {
+   "id": "b23",
+   "text": "While you were out partying.",
+   "start": 50.293,
+   "end": 51.505,
+   "words": [
+    {
+     "w": "While",
+     "s": 50.293,
+     "e": 50.393
+    },
+    {
+     "w": "you",
+     "s": 50.393,
+     "e": 50.513
+    },
+    {
+     "w": "were",
+     "s": 50.513,
+     "e": 50.613
+    },
+    {
+     "w": "out",
+     "s": 50.613,
+     "e": 50.813
+    },
+    {
+     "w": "partying.",
+     "s": 50.813,
+     "e": 51.293
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_wink_chip"
+    }
+   ]
+  },
+  {
+   "id": "b24",
+   "text": "The next night, I walked through town, and something was wrong.",
+   "start": 51.725,
+   "end": 54.27,
+   "words": [
+    {
+     "w": "The",
+     "s": 51.725,
+     "e": 51.805
+    },
+    {
+     "w": "next",
+     "s": 51.805,
+     "e": 51.945
+    },
+    {
+     "w": "night,",
+     "s": 51.945,
+     "e": 52.185
+    },
+    {
+     "w": "I",
+     "s": 52.265,
+     "e": 52.365
+    },
+    {
+     "w": "walked",
+     "s": 52.365,
+     "e": 52.565
+    },
+    {
+     "w": "through",
+     "s": 52.565,
+     "e": 52.825
+    },
+    {
+     "w": "town,",
+     "s": 52.825,
+     "e": 53.085
+    },
+    {
+     "w": "and",
+     "s": 53.265,
+     "e": 53.365
+    },
+    {
+     "w": "something",
+     "s": 53.365,
+     "e": 53.585
+    },
+    {
+     "w": "was",
+     "s": 53.585,
+     "e": 53.845
+    },
+    {
+     "w": "wrong.",
+     "s": 53.845,
+     "e": 54.045
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "street_night",
+     "p": {
+      "party": false,
+      "hero": true
+     }
+    },
+    {
+     "at": 7,
+     "scene": "hero_close_night",
+     "p": {
+      "face": "worried",
+      "street": true
+     }
+    }
+   ]
+  },
+  {
+   "id": "b25",
+   "text": "No music. No party lights. Nothing.",
+   "start": 54.49,
+   "end": 56.306,
+   "words": [
+    {
+     "w": "No",
+     "s": 54.49,
+     "e": 54.61
+    },
+    {
+     "w": "music.",
+     "s": 54.61,
+     "e": 54.87
+    },
+    {
+     "w": "No",
+     "s": 55.05,
+     "e": 55.13
+    },
+    {
+     "w": "party",
+     "s": 55.13,
+     "e": 55.39
+    },
+    {
+     "w": "lights.",
+     "s": 55.39,
+     "e": 55.69
+    },
+    {
+     "w": "Nothing.",
+     "s": 55.87,
+     "e": 55.99
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "party_house",
+     "p": {
+      "off": true
+     }
+    },
+    {
+     "at": 2,
+     "scene": "lights_off"
+    },
+    {
+     "at": 5,
+     "scene": "town_aerial",
+     "p": {
+      "party": false,
+      "dark": true
+     }
+    }
+   ]
+  },
+  {
+   "id": "b26",
+   "text": "Then I heard it, from every single window.",
+   "start": 56.526,
+   "end": 58.519,
+   "words": [
+    {
+     "w": "Then",
+     "s": 56.526,
+     "e": 56.768
+    },
+    {
+     "w": "I",
+     "s": 56.768,
+     "e": 56.828
+    },
+    {
+     "w": "heard",
+     "s": 56.828,
+     "e": 57.13
+    },
+    {
+     "w": "it,",
+     "s": 57.13,
+     "e": 57.251
+    },
+    {
+     "w": "from",
+     "s": 57.251,
+     "e": 57.493
+    },
+    {
+     "w": "every",
+     "s": 57.493,
+     "e": 57.795
+    },
+    {
+     "w": "single",
+     "s": 57.795,
+     "e": 58.157
+    },
+    {
+     "w": "window.",
+     "s": 58.157,
+     "e": 58.519
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "house_windows"
+    }
+   ]
+  },
+  {
+   "id": "b27",
+   "text": "Kriuk! Kriuk! Kriuk!",
+   "start": 58.739,
+   "end": 60.258,
+   "words": [
+    {
+     "w": "Kriuk!",
+     "s": 58.739,
+     "e": 59.338
+    },
+    {
+     "w": "Kriuk!",
+     "s": 59.199,
+     "e": 59.798
+    },
+    {
+     "w": "Kriuk!",
+     "s": 59.659,
+     "e": 60.258
+    }
+   ],
+   "kriuk": true,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "window_kriuk",
+     "p": {
+      "house": 0
+     }
+    },
+    {
+     "at": 1,
+     "scene": "window_kriuk",
+     "p": {
+      "house": 1
+     }
+    },
+    {
+     "at": 2,
+     "scene": "window_kriuk",
+     "p": {
+      "house": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "b28",
+   "text": "Bayu was practicing guitar, with a bag of Keripik Goyang.",
+   "start": 60.478,
+   "end": 63.645,
+   "words": [
+    {
+     "w": "Bayu",
+     "s": 60.478,
+     "e": 60.758
+    },
+    {
+     "w": "was",
+     "s": 60.758,
+     "e": 60.838
+    },
+    {
+     "w": "practicing",
+     "s": 60.838,
+     "e": 61.278
+    },
+    {
+     "w": "guitar,",
+     "s": 61.278,
+     "e": 61.698
+    },
+    {
+     "w": "with",
+     "s": 61.998,
+     "e": 62.118
+    },
+    {
+     "w": "a",
+     "s": 62.118,
+     "e": 62.218
+    },
+    {
+     "w": "bag",
+     "s": 62.218,
+     "e": 62.418
+    },
+    {
+     "w": "of",
+     "s": 62.418,
+     "e": 62.558
+    },
+    {
+     "w": "Keripik",
+     "s": 62.558,
+     "e": 63.058
+    },
+    {
+     "w": "Goyang.",
+     "s": 63.058,
+     "e": 63.558
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "grind_room",
+     "p": {
+      "who": "bayu"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b29",
+   "text": "Sari was practicing karate, with a bag of Keripik Goyang.",
+   "start": 63.865,
+   "end": 67.232,
+   "words": [
+    {
+     "w": "Sari",
+     "s": 63.865,
+     "e": 64.145
+    },
+    {
+     "w": "was",
+     "s": 64.145,
+     "e": 64.345
+    },
+    {
+     "w": "practicing",
+     "s": 64.345,
+     "e": 64.825
+    },
+    {
+     "w": "karate,",
+     "s": 64.825,
+     "e": 65.305
+    },
+    {
+     "w": "with",
+     "s": 65.645,
+     "e": 65.745
+    },
+    {
+     "w": "a",
+     "s": 65.745,
+     "e": 65.825
+    },
+    {
+     "w": "bag",
+     "s": 65.825,
+     "e": 66.045
+    },
+    {
+     "w": "of",
+     "s": 66.045,
+     "e": 66.185
+    },
+    {
+     "w": "Keripik",
+     "s": 66.185,
+     "e": 66.645
+    },
+    {
+     "w": "Goyang.",
+     "s": 66.645,
+     "e": 67.165
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "grind_room",
+     "p": {
+      "who": "sari"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b30",
+   "text": "And my grandma was doing push-ups, with two bags.",
+   "start": 67.452,
+   "end": 69.985,
+   "words": [
+    {
+     "w": "And",
+     "s": 67.452,
+     "e": 67.532
+    },
+    {
+     "w": "my",
+     "s": 67.532,
+     "e": 67.632
+    },
+    {
+     "w": "grandma",
+     "s": 67.632,
+     "e": 67.992
+    },
+    {
+     "w": "was",
+     "s": 67.992,
+     "e": 68.292
+    },
+    {
+     "w": "doing",
+     "s": 68.292,
+     "e": 68.492
+    },
+    {
+     "w": "push-ups,",
+     "s": 68.492,
+     "e": 69.092
+    },
+    {
+     "w": "with",
+     "s": 69.092,
+     "e": 69.252
+    },
+    {
+     "w": "two",
+     "s": 69.252,
+     "e": 69.472
+    },
+    {
+     "w": "bags.",
+     "s": 69.472,
+     "e": 69.712
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "grind_room",
+     "p": {
+      "who": "grandma"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b31",
+   "text": "They all think the chips are my secret.",
+   "start": 70.205,
+   "end": 71.899,
+   "words": [
+    {
+     "w": "They",
+     "s": 70.205,
+     "e": 70.305
+    },
+    {
+     "w": "all",
+     "s": 70.305,
+     "e": 70.485
+    },
+    {
+     "w": "think",
+     "s": 70.485,
+     "e": 70.705
+    },
+    {
+     "w": "the",
+     "s": 70.705,
+     "e": 70.805
+    },
+    {
+     "w": "chips",
+     "s": 70.805,
+     "e": 71.025
+    },
+    {
+     "w": "are",
+     "s": 71.025,
+     "e": 71.225
+    },
+    {
+     "w": "my",
+     "s": 71.225,
+     "e": 71.365
+    },
+    {
+     "w": "secret.",
+     "s": 71.365,
+     "e": 71.665
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_secret"
+    }
+   ]
+  },
+  {
+   "id": "b32",
+   "text": "Honestly? They kind of are.",
+   "start": 72.119,
+   "end": 73.341,
+   "words": [
+    {
+     "w": "Honestly?",
+     "s": 72.119,
+     "e": 72.439
+    },
+    {
+     "w": "They",
+     "s": 72.639,
+     "e": 72.719
+    },
+    {
+     "w": "kind",
+     "s": 72.719,
+     "e": 72.939
+    },
+    {
+     "w": "of",
+     "s": 72.939,
+     "e": 73.079
+    },
+    {
+     "w": "are.",
+     "s": 73.079,
+     "e": 73.199
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_eat_chip",
+     "p": {
+      "night": false,
+      "wink": true,
+      "flavor": "manis"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b33",
+   "text": "Now the whole town is grinding, which is great.",
+   "start": 73.561,
+   "end": 75.754,
+   "words": [
+    {
+     "w": "Now",
+     "s": 73.561,
+     "e": 73.701
+    },
+    {
+     "w": "the",
+     "s": 73.701,
+     "e": 73.821
+    },
+    {
+     "w": "whole",
+     "s": 73.821,
+     "e": 74.001
+    },
+    {
+     "w": "town",
+     "s": 74.001,
+     "e": 74.261
+    },
+    {
+     "w": "is",
+     "s": 74.261,
+     "e": 74.441
+    },
+    {
+     "w": "grinding,",
+     "s": 74.441,
+     "e": 74.861
+    },
+    {
+     "w": "which",
+     "s": 75.061,
+     "e": 75.161
+    },
+    {
+     "w": "is",
+     "s": 75.161,
+     "e": 75.301
+    },
+    {
+     "w": "great.",
+     "s": 75.301,
+     "e": 75.521
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "town_aerial",
+     "p": {
+      "party": false,
+      "grind": true
+     }
+    }
+   ]
+  },
+  {
+   "id": "b34",
+   "text": "Except every store in town is sold out of Keripik Goyang,",
+   "start": 75.974,
+   "end": 79.093,
+   "words": [
+    {
+     "w": "Except",
+     "s": 75.974,
+     "e": 76.194
+    },
+    {
+     "w": "every",
+     "s": 76.194,
+     "e": 76.514
+    },
+    {
+     "w": "store",
+     "s": 76.514,
+     "e": 76.794
+    },
+    {
+     "w": "in",
+     "s": 76.794,
+     "e": 76.954
+    },
+    {
+     "w": "town",
+     "s": 76.954,
+     "e": 77.234
+    },
+    {
+     "w": "is",
+     "s": 77.234,
+     "e": 77.474
+    },
+    {
+     "w": "sold",
+     "s": 77.474,
+     "e": 77.734
+    },
+    {
+     "w": "out",
+     "s": 77.734,
+     "e": 77.934
+    },
+    {
+     "w": "of",
+     "s": 77.934,
+     "e": 78.034
+    },
+    {
+     "w": "Keripik",
+     "s": 78.034,
+     "e": 78.514
+    },
+    {
+     "w": "Goyang,",
+     "s": 78.514,
+     "e": 78.994
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "store_sold_out"
+    }
+   ]
+  },
+  {
+   "id": "b35",
+   "text": "and I'm the only one who's free on a Friday night.",
+   "start": 79.313,
+   "end": 81.702,
+   "words": [
+    {
+     "w": "and",
+     "s": 79.313,
+     "e": 79.393
+    },
+    {
+     "w": "I'm",
+     "s": 79.393,
+     "e": 79.553
+    },
+    {
+     "w": "the",
+     "s": 79.553,
+     "e": 79.653
+    },
+    {
+     "w": "only",
+     "s": 79.653,
+     "e": 79.933
+    },
+    {
+     "w": "one",
+     "s": 79.933,
+     "e": 80.173
+    },
+    {
+     "w": "who's",
+     "s": 80.173,
+     "e": 80.453
+    },
+    {
+     "w": "free",
+     "s": 80.453,
+     "e": 80.673
+    },
+    {
+     "w": "on",
+     "s": 80.673,
+     "e": 80.833
+    },
+    {
+     "w": "a",
+     "s": 80.833,
+     "e": 80.913
+    },
+    {
+     "w": "Friday",
+     "s": 80.913,
+     "e": 81.173
+    },
+    {
+     "w": "night.",
+     "s": 81.173,
+     "e": 81.533
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_curb"
+    }
+   ]
+  },
+  {
+   "id": "b36",
+   "text": "So I threw a party.",
+   "start": 81.922,
+   "end": 82.955,
+   "words": [
+    {
+     "w": "So",
+     "s": 81.922,
+     "e": 82.069
+    },
+    {
+     "w": "I",
+     "s": 82.069,
+     "e": 82.143
+    },
+    {
+     "w": "threw",
+     "s": 82.143,
+     "e": 82.512
+    },
+    {
+     "w": "a",
+     "s": 82.512,
+     "e": 82.586
+    },
+    {
+     "w": "party.",
+     "s": 82.586,
+     "e": 82.955
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_party_room"
+    }
+   ]
+  },
+  {
+   "id": "b37",
+   "text": "The only guest was the mayor's goldfish.",
+   "start": 83.175,
+   "end": 85.091,
+   "words": [
+    {
+     "w": "The",
+     "s": 83.175,
+     "e": 83.255
+    },
+    {
+     "w": "only",
+     "s": 83.255,
+     "e": 83.475
+    },
+    {
+     "w": "guest",
+     "s": 83.475,
+     "e": 83.735
+    },
+    {
+     "w": "was",
+     "s": 83.735,
+     "e": 83.915
+    },
+    {
+     "w": "the",
+     "s": 83.915,
+     "e": 84.055
+    },
+    {
+     "w": "mayor's",
+     "s": 84.055,
+     "e": 84.415
+    },
+    {
+     "w": "goldfish.",
+     "s": 84.415,
+     "e": 84.875
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "fishbowl_guest"
+    }
+   ]
+  },
+  {
+   "id": "b38",
+   "text": "He brought the last bag. Pedas Nampol.",
+   "start": 85.311,
+   "end": 87.353,
+   "words": [
+    {
+     "w": "He",
+     "s": 85.311,
+     "e": 85.371
+    },
+    {
+     "w": "brought",
+     "s": 85.371,
+     "e": 85.531
+    },
+    {
+     "w": "the",
+     "s": 85.531,
+     "e": 85.691
+    },
+    {
+     "w": "last",
+     "s": 85.691,
+     "e": 85.931
+    },
+    {
+     "w": "bag.",
+     "s": 85.931,
+     "e": 86.251
+    },
+    {
+     "w": "Pedas",
+     "s": 86.431,
+     "e": 86.751
+    },
+    {
+     "w": "Nampol.",
+     "s": 86.751,
+     "e": 87.211
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "fishbowl_pouch"
+    }
+   ]
+  },
+  {
+   "id": "b39",
+   "text": "He's actually a pretty good dancer.",
+   "start": 87.573,
+   "end": 89.202,
+   "words": [
+    {
+     "w": "He's",
+     "s": 87.573,
+     "e": 87.693
+    },
+    {
+     "w": "actually",
+     "s": 87.693,
+     "e": 87.953
+    },
+    {
+     "w": "a",
+     "s": 87.953,
+     "e": 88.133
+    },
+    {
+     "w": "pretty",
+     "s": 88.133,
+     "e": 88.333
+    },
+    {
+     "w": "good",
+     "s": 88.333,
+     "e": 88.573
+    },
+    {
+     "w": "dancer.",
+     "s": 88.573,
+     "e": 88.833
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "fish_dance"
+    }
+   ]
+  },
+  {
+   "id": "b40",
+   "text": "Goyang keripiknya, nampol rasanya!",
+   "start": 89.422,
+   "end": 91.476,
+   "words": [
+    {
+     "w": "Goyang",
+     "s": 89.422,
+     "e": 89.702
+    },
+    {
+     "w": "keripiknya,",
+     "s": 89.702,
+     "e": 90.342
+    },
+    {
+     "w": "nampol",
+     "s": 90.462,
+     "e": 90.782
+    },
+    {
+     "w": "rasanya!",
+     "s": 90.782,
+     "e": 91.282
+    }
+   ],
+   "kriuk": false,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "endcard"
+    }
+   ]
+  }
+ ],
+ "shots": [
+  {
+   "beat": "b01",
+   "scene": "town_aerial",
+   "p": {
+    "party": true
+   },
+   "start": 0.0,
+   "end": 2.671,
+   "dur": 2.671,
+   "id": "s00_town_aerial"
+  },
+  {
+   "beat": "b02",
+   "scene": "hero_close_night",
+   "p": {
+    "face": "neutral"
+   },
+   "start": 2.671,
+   "end": 3.623,
+   "dur": 0.952,
+   "id": "s01_hero_close_night"
+  },
+  {
+   "beat": "b03",
+   "scene": "hero_eat_chip",
+   "p": {
+    "night": true
+   },
+   "start": 3.623,
+   "end": 4.023,
+   "dur": 0.4,
+   "id": "s02_hero_eat_chip"
+  },
+  {
+   "beat": "b03",
+   "scene": "hero_dribble_night",
+   "p": {},
+   "start": 4.023,
+   "end": 4.483,
+   "dur": 0.46,
+   "id": "s03_hero_dribble_night"
+  },
+  {
+   "beat": "b03",
+   "scene": "hoop_swish_night",
+   "p": {},
+   "start": 4.483,
+   "end": 5.361,
+   "dur": 0.878,
+   "id": "s04_hoop_swish_night"
+  },
+  {
+   "beat": "b04",
+   "scene": "street_night",
+   "p": {
+    "party": true
+   },
+   "start": 5.361,
+   "end": 6.601,
+   "dur": 1.24,
+   "id": "s05_street_night"
+  },
+  {
+   "beat": "b04",
+   "scene": "party_house",
+   "p": {},
+   "start": 6.601,
+   "end": 7.952,
+   "dur": 1.351,
+   "id": "s06_party_house"
+  },
+  {
+   "beat": "b05",
+   "scene": "pool_party",
+   "p": {},
+   "start": 7.952,
+   "end": 8.732,
+   "dur": 0.78,
+   "id": "s07_pool_party"
+  },
+  {
+   "beat": "b05",
+   "scene": "karaoke_party",
+   "p": {},
+   "start": 8.732,
+   "end": 9.972,
+   "dur": 1.24,
+   "id": "s08_karaoke_party"
+  },
+  {
+   "beat": "b05",
+   "scene": "goldfish_birthday",
+   "p": {},
+   "start": 9.972,
+   "end": 12.68,
+   "dur": 2.708,
+   "id": "s09_goldfish_birthday"
+  },
+  {
+   "beat": "b06",
+   "scene": "empty_court_day",
+   "p": {},
+   "start": 12.68,
+   "end": 14.38,
+   "dur": 1.7,
+   "id": "s10_empty_court_day"
+  },
+  {
+   "beat": "b06",
+   "scene": "dancer_shrug",
+   "p": {},
+   "start": 14.38,
+   "end": 15.341,
+   "dur": 0.961,
+   "id": "s11_dancer_shrug"
+  },
+  {
+   "beat": "b07",
+   "scene": "friend_party",
+   "p": {
+    "who": "bayu"
+   },
+   "start": 15.341,
+   "end": 17.704,
+   "dur": 2.363,
+   "id": "s12_friend_party"
+  },
+  {
+   "beat": "b08",
+   "scene": "friend_party",
+   "p": {
+    "who": "sari"
+   },
+   "start": 17.704,
+   "end": 19.765,
+   "dur": 2.061,
+   "id": "s13_friend_party"
+  },
+  {
+   "beat": "b09",
+   "scene": "friend_party",
+   "p": {
+    "who": "grandma"
+   },
+   "start": 19.765,
+   "end": 22.252,
+   "dur": 2.487,
+   "id": "s14_friend_party"
+  },
+  {
+   "beat": "b10",
+   "scene": "hero_close_night",
+   "p": {
+    "face": "determined",
+    "ball": true
+   },
+   "start": 22.252,
+   "end": 23.197,
+   "dur": 0.945,
+   "id": "s15_hero_close_night"
+  },
+  {
+   "beat": "b11",
+   "scene": "hero_eat_chip",
+   "p": {
+    "night": true,
+    "flavor": "pedas"
+   },
+   "start": 23.197,
+   "end": 23.597,
+   "dur": 0.4,
+   "id": "s16_hero_eat_chip"
+  },
+  {
+   "beat": "b11",
+   "scene": "hero_dribble_night",
+   "p": {
+    "angle": 1
+   },
+   "start": 23.597,
+   "end": 24.057,
+   "dur": 0.46,
+   "id": "s17_hero_dribble_night"
+  },
+  {
+   "beat": "b11",
+   "scene": "hoop_swish_night",
+   "p": {
+    "angle": 1
+   },
+   "start": 24.057,
+   "end": 24.936,
+   "dur": 0.879,
+   "id": "s18_hoop_swish_night"
+  },
+  {
+   "beat": "b12",
+   "scene": "hoop_swish_night",
+   "p": {
+    "angle": 2,
+    "balls": true
+   },
+   "start": 24.936,
+   "end": 26.016,
+   "dur": 1.08,
+   "id": "s19_hoop_swish_night"
+  },
+  {
+   "beat": "b12",
+   "scene": "pouch_bench_night",
+   "p": {},
+   "start": 26.016,
+   "end": 27.596,
+   "dur": 1.58,
+   "id": "s20_pouch_bench_night"
+  },
+  {
+   "beat": "b12",
+   "scene": "moon_timelapse",
+   "p": {},
+   "start": 27.596,
+   "end": 28.869,
+   "dur": 1.273,
+   "id": "s21_moon_timelapse"
+  },
+  {
+   "beat": "b13",
+   "scene": "court_day_wide",
+   "p": {},
+   "start": 28.869,
+   "end": 30.949,
+   "dur": 2.08,
+   "id": "s22_court_day_wide"
+  },
+  {
+   "beat": "b13",
+   "scene": "court_banner",
+   "p": {},
+   "start": 30.949,
+   "end": 33.0,
+   "dur": 2.051,
+   "id": "s23_court_banner"
+  },
+  {
+   "beat": "b14",
+   "scene": "crowd",
+   "p": {
+    "mood": "cheer"
+   },
+   "start": 33.0,
+   "end": 34.98,
+   "dur": 1.98,
+   "id": "s24_crowd"
+  },
+  {
+   "beat": "b14",
+   "scene": "hero_walk_court",
+   "p": {},
+   "start": 34.98,
+   "end": 36.46,
+   "dur": 1.48,
+   "id": "s25_hero_walk_court"
+  },
+  {
+   "beat": "b14",
+   "scene": "crowd",
+   "p": {
+    "mood": "laugh",
+    "angle": 1
+   },
+   "start": 36.46,
+   "end": 37.664,
+   "dur": 1.204,
+   "id": "s26_crowd"
+  },
+  {
+   "beat": "b15",
+   "scene": "bayu_point_laugh",
+   "p": {},
+   "start": 37.664,
+   "end": 39.04,
+   "dur": 1.376,
+   "id": "s27_bayu_point_laugh"
+  },
+  {
+   "beat": "b16",
+   "scene": "hero_catch_day",
+   "p": {},
+   "start": 39.04,
+   "end": 40.163,
+   "dur": 1.123,
+   "id": "s28_hero_catch_day"
+  },
+  {
+   "beat": "b17",
+   "scene": "hero_dribble_day",
+   "p": {},
+   "start": 40.163,
+   "end": 40.563,
+   "dur": 0.4,
+   "id": "s29_hero_dribble_day"
+  },
+  {
+   "beat": "b17",
+   "scene": "hero_dribble_day",
+   "p": {
+    "angle": 1
+   },
+   "start": 40.563,
+   "end": 41.023,
+   "dur": 0.46,
+   "id": "s30_hero_dribble_day"
+  },
+  {
+   "beat": "b17",
+   "scene": "hoop_swish_day",
+   "p": {},
+   "start": 41.023,
+   "end": 41.902,
+   "dur": 0.879,
+   "id": "s31_hoop_swish_day"
+  },
+  {
+   "beat": "b18",
+   "scene": "scoreboard",
+   "p": {},
+   "start": 41.902,
+   "end": 42.482,
+   "dur": 0.58,
+   "id": "s32_scoreboard"
+  },
+  {
+   "beat": "b18",
+   "scene": "hero_proud_day",
+   "p": {},
+   "start": 42.482,
+   "end": 43.62,
+   "dur": 1.138,
+   "id": "s33_hero_proud_day"
+  },
+  {
+   "beat": "b19",
+   "scene": "speaker_stop",
+   "p": {},
+   "start": 43.62,
+   "end": 44.46,
+   "dur": 0.84,
+   "id": "s34_speaker_stop"
+  },
+  {
+   "beat": "b19",
+   "scene": "crowd",
+   "p": {
+    "mood": "shock",
+    "angle": 2
+   },
+   "start": 44.46,
+   "end": 46.128,
+   "dur": 1.668,
+   "id": "s35_crowd"
+  },
+  {
+   "beat": "b20",
+   "scene": "bayu_walkup",
+   "p": {},
+   "start": 46.128,
+   "end": 47.716,
+   "dur": 1.588,
+   "id": "s36_bayu_walkup"
+  },
+  {
+   "beat": "b21",
+   "scene": "bayu_ask",
+   "p": {},
+   "start": 47.716,
+   "end": 49.044,
+   "dur": 1.328,
+   "id": "s37_bayu_ask"
+  },
+  {
+   "beat": "b22",
+   "scene": "hero_truth",
+   "p": {},
+   "start": 49.044,
+   "end": 50.293,
+   "dur": 1.249,
+   "id": "s38_hero_truth"
+  },
+  {
+   "beat": "b23",
+   "scene": "hero_wink_chip",
+   "p": {},
+   "start": 50.293,
+   "end": 51.725,
+   "dur": 1.432,
+   "id": "s39_hero_wink_chip"
+  },
+  {
+   "beat": "b24",
+   "scene": "street_night",
+   "p": {
+    "party": false,
+    "hero": true
+   },
+   "start": 51.725,
+   "end": 53.205,
+   "dur": 1.48,
+   "id": "s40_street_night"
+  },
+  {
+   "beat": "b24",
+   "scene": "hero_close_night",
+   "p": {
+    "face": "worried",
+    "street": true
+   },
+   "start": 53.205,
+   "end": 54.49,
+   "dur": 1.285,
+   "id": "s41_hero_close_night"
+  },
+  {
+   "beat": "b25",
+   "scene": "party_house",
+   "p": {
+    "off": true
+   },
+   "start": 54.49,
+   "end": 54.99,
+   "dur": 0.5,
+   "id": "s42_party_house"
+  },
+  {
+   "beat": "b25",
+   "scene": "lights_off",
+   "p": {},
+   "start": 54.99,
+   "end": 55.81,
+   "dur": 0.82,
+   "id": "s43_lights_off"
+  },
+  {
+   "beat": "b25",
+   "scene": "town_aerial",
+   "p": {
+    "party": false,
+    "dark": true
+   },
+   "start": 55.81,
+   "end": 56.526,
+   "dur": 0.716,
+   "id": "s44_town_aerial"
+  },
+  {
+   "beat": "b26",
+   "scene": "house_windows",
+   "p": {},
+   "start": 56.526,
+   "end": 58.739,
+   "dur": 2.213,
+   "id": "s45_house_windows"
+  },
+  {
+   "beat": "b27",
+   "scene": "window_kriuk",
+   "p": {
+    "house": 0
+   },
+   "start": 58.739,
+   "end": 59.139,
+   "dur": 0.4,
+   "id": "s46_window_kriuk"
+  },
+  {
+   "beat": "b27",
+   "scene": "window_kriuk",
+   "p": {
+    "house": 1
+   },
+   "start": 59.139,
+   "end": 59.599,
+   "dur": 0.46,
+   "id": "s47_window_kriuk"
+  },
+  {
+   "beat": "b27",
+   "scene": "window_kriuk",
+   "p": {
+    "house": 2
+   },
+   "start": 59.599,
+   "end": 60.478,
+   "dur": 0.879,
+   "id": "s48_window_kriuk"
+  },
+  {
+   "beat": "b28",
+   "scene": "grind_room",
+   "p": {
+    "who": "bayu"
+   },
+   "start": 60.478,
+   "end": 63.865,
+   "dur": 3.387,
+   "id": "s49_grind_room"
+  },
+  {
+   "beat": "b29",
+   "scene": "grind_room",
+   "p": {
+    "who": "sari"
+   },
+   "start": 63.865,
+   "end": 67.452,
+   "dur": 3.587,
+   "id": "s50_grind_room"
+  },
+  {
+   "beat": "b30",
+   "scene": "grind_room",
+   "p": {
+    "who": "grandma"
+   },
+   "start": 67.452,
+   "end": 70.205,
+   "dur": 2.753,
+   "id": "s51_grind_room"
+  },
+  {
+   "beat": "b31",
+   "scene": "hero_secret",
+   "p": {},
+   "start": 70.205,
+   "end": 72.119,
+   "dur": 1.914,
+   "id": "s52_hero_secret"
+  },
+  {
+   "beat": "b32",
+   "scene": "hero_eat_chip",
+   "p": {
+    "night": false,
+    "wink": true,
+    "flavor": "manis"
+   },
+   "start": 72.119,
+   "end": 73.561,
+   "dur": 1.442,
+   "id": "s53_hero_eat_chip"
+  },
+  {
+   "beat": "b33",
+   "scene": "town_aerial",
+   "p": {
+    "party": false,
+    "grind": true
+   },
+   "start": 73.561,
+   "end": 75.974,
+   "dur": 2.413,
+   "id": "s54_town_aerial"
+  },
+  {
+   "beat": "b34",
+   "scene": "store_sold_out",
+   "p": {},
+   "start": 75.974,
+   "end": 79.313,
+   "dur": 3.339,
+   "id": "s55_store_sold_out"
+  },
+  {
+   "beat": "b35",
+   "scene": "hero_curb",
+   "p": {},
+   "start": 79.313,
+   "end": 81.922,
+   "dur": 2.609,
+   "id": "s56_hero_curb"
+  },
+  {
+   "beat": "b36",
+   "scene": "hero_party_room",
+   "p": {},
+   "start": 81.922,
+   "end": 83.175,
+   "dur": 1.253,
+   "id": "s57_hero_party_room"
+  },
+  {
+   "beat": "b37",
+   "scene": "fishbowl_guest",
+   "p": {},
+   "start": 83.175,
+   "end": 85.311,
+   "dur": 2.136,
+   "id": "s58_fishbowl_guest"
+  },
+  {
+   "beat": "b38",
+   "scene": "fishbowl_pouch",
+   "p": {},
+   "start": 85.311,
+   "end": 87.573,
+   "dur": 2.262,
+   "id": "s59_fishbowl_pouch"
+  },
+  {
+   "beat": "b39",
+   "scene": "fish_dance",
+   "p": {},
+   "start": 87.573,
+   "end": 89.422,
+   "dur": 1.849,
+   "id": "s60_fish_dance"
+  },
+  {
+   "beat": "b40",
+   "scene": "endcard",
+   "p": {},
+   "start": 89.422,
+   "end": 93.076,
+   "dur": 3.654,
+   "id": "s61_endcard"
+  }
+ ],
+ "sfx": [
+  {
+   "type": "crunch",
+   "t": 3.6425
+  },
+  {
+   "type": "crunch",
+   "t": 4.1025
+  },
+  {
+   "type": "crunch",
+   "t": 4.5625
+  },
+  {
+   "type": "crunch",
+   "t": 23.217375
+  },
+  {
+   "type": "crunch",
+   "t": 23.677375
+  },
+  {
+   "type": "crunch",
+   "t": 24.137375000000002
+  },
+  {
+   "type": "crunch",
+   "t": 40.18316666666667
+  },
+  {
+   "type": "crunch",
+   "t": 40.64316666666667
+  },
+  {
+   "type": "crunch",
+   "t": 41.103166666666674
+  },
+  {
+   "type": "crunch",
+   "t": 58.75933333333334
+  },
+  {
+   "type": "crunch",
+   "t": 59.21933333333334
+  },
+  {
+   "type": "crunch",
+   "t": 59.67933333333334
+  }
+ ]
+}

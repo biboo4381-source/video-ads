@@ -1,0 +1,602 @@
+{
+ "voice": "am_fenrir",
+ "speed": 1.12,
+ "pronounce": {
+  "Keripik Goyang": "kəɾˈiːpɪk ɡˈoʊjɑːŋ",
+  "Bayu": "bˈɑːjuː",
+  "Sari": "sˈɑːɾi",
+  "Kriuk": "kɾiˈuːk",
+  "Pedas Nampol": "pədˈɑːs nˈɑːmpɔl",
+  "Goyang keripiknya, nampol rasanya": "ɡˈoʊjɑːŋ kəɾiːpˈɪknjɑː, nˈɑːmpɔl ɾɑːsˈɑːnjɑː"
+ },
+ "beats": [
+  {
+   "id": "b01",
+   "text": "In this town, everybody parties every night.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "town_aerial",
+     "p": {
+      "party": true
+     }
+    }
+   ]
+  },
+  {
+   "id": "b02",
+   "text": "Except me.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_close_night",
+     "p": {
+      "face": "neutral"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b03",
+   "kriuk": true,
+   "text": "Kriuk! Kriuk! Kriuk!",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_eat_chip",
+     "p": {
+      "bg": "court"
+     }
+    },
+    {
+     "at": 1,
+     "scene": "hero_dribble_night"
+    },
+    {
+     "at": 2,
+     "scene": "hoop_swish_night"
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "text": "You see, every single night, there's a party somewhere.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "street_night",
+     "p": {
+      "party": true
+     }
+    },
+    {
+     "at": 5,
+     "scene": "party_house"
+    }
+   ]
+  },
+  {
+   "id": "b05",
+   "text": "Pool parties. Karaoke parties. Even a birthday party for the mayor's goldfish.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "pool_party"
+    },
+    {
+     "at": 2,
+     "scene": "karaoke_party"
+    },
+    {
+     "at": 4,
+     "scene": "goldfish_birthday"
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "text": "Nobody here practices anything. Why would they?",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "empty_court_day"
+    },
+    {
+     "at": 4,
+     "scene": "dancer_shrug"
+    }
+   ]
+  },
+  {
+   "id": "b07",
+   "text": "My best friend Bayu goes to every party.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "friend_party",
+     "p": {
+      "who": "bayu"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b08",
+   "text": "My neighbor Sari goes to every party.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "friend_party",
+     "p": {
+      "who": "sari"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b09",
+   "text": "Even my grandma goes dancing on Tuesdays.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "friend_party",
+     "p": {
+      "who": "grandma"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b10",
+   "text": "But not me.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_close_night",
+     "p": {
+      "face": "determined",
+      "ball": true
+     }
+    }
+   ]
+  },
+  {
+   "id": "b11",
+   "kriuk": true,
+   "text": "Kriuk! Kriuk! Kriuk!",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_eat_chip",
+     "p": {
+      "flavor": "pedas",
+      "bg": "court"
+     }
+    },
+    {
+     "at": 1,
+     "scene": "hero_dribble_night",
+     "p": {
+      "angle": 1
+     }
+    },
+    {
+     "at": 2,
+     "scene": "hoop_swish_night",
+     "p": {
+      "angle": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "b12",
+   "text": "One hundred shots. One bag of Keripik Goyang. Every single night.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hoop_swish_night",
+     "p": {
+      "angle": 2,
+      "balls": true
+     }
+    },
+    {
+     "at": 3,
+     "scene": "pouch_bench_night"
+    },
+    {
+     "at": 8,
+     "scene": "moon_timelapse"
+    }
+   ]
+  },
+  {
+   "id": "b13",
+   "text": "Then came the biggest party of the year. The Summer Party Basketball Game!",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "court_day_wide"
+    },
+    {
+     "at": 8,
+     "scene": "court_banner"
+    }
+   ]
+  },
+  {
+   "id": "b14",
+   "text": "Everybody showed up in party hats. When I walked onto the court, everybody laughed.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "crowd",
+     "p": {
+      "mood": "cheer"
+     }
+    },
+    {
+     "at": 6,
+     "scene": "hero_walk_court"
+    },
+    {
+     "at": 12,
+     "scene": "crowd",
+     "p": {
+      "mood": "laugh",
+      "angle": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "b15",
+   "text": "Who's the kid with the chips?",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "bayu_point_laugh"
+    }
+   ]
+  },
+  {
+   "id": "b16",
+   "text": "Then I got the ball.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_catch_day"
+    }
+   ]
+  },
+  {
+   "id": "b17",
+   "kriuk": true,
+   "text": "Kriuk! Kriuk! Kriuk!",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_dribble_day"
+    },
+    {
+     "at": 1,
+     "scene": "hero_dribble_day",
+     "p": {
+      "angle": 1
+     }
+    },
+    {
+     "at": 2,
+     "scene": "hoop_swish_day"
+    }
+   ]
+  },
+  {
+   "id": "b18",
+   "text": "Fifty points. All by myself.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "scoreboard"
+    },
+    {
+     "at": 2,
+     "scene": "hero_proud_day"
+    }
+   ]
+  },
+  {
+   "id": "b19",
+   "text": "The music stopped. The whole crowd went silent.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "speaker_stop"
+    },
+    {
+     "at": 3,
+     "scene": "crowd",
+     "p": {
+      "mood": "shock",
+      "angle": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "b20",
+   "text": "Bayu walked up to me and asked,",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "bayu_walkup"
+    }
+   ]
+  },
+  {
+   "id": "b21",
+   "text": "When did you get so good?",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "bayu_ask"
+    }
+   ]
+  },
+  {
+   "id": "b22",
+   "text": "I told him the truth.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_truth"
+    }
+   ]
+  },
+  {
+   "id": "b23",
+   "text": "While you were out partying.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_wink_chip"
+    }
+   ]
+  },
+  {
+   "id": "b24",
+   "text": "The next night, I walked through town, and something was wrong.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "street_night",
+     "p": {
+      "party": false,
+      "hero": true
+     }
+    },
+    {
+     "at": 7,
+     "scene": "hero_close_night",
+     "p": {
+      "face": "worried",
+      "street": true
+     }
+    }
+   ]
+  },
+  {
+   "id": "b25",
+   "text": "No music. No party lights. Nothing.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "party_house",
+     "p": {
+      "off": true
+     }
+    },
+    {
+     "at": 2,
+     "scene": "lights_off"
+    },
+    {
+     "at": 5,
+     "scene": "town_aerial",
+     "p": {
+      "party": false,
+      "dark": true
+     }
+    }
+   ]
+  },
+  {
+   "id": "b26",
+   "text": "Then I heard it, from every single window.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "house_windows"
+    }
+   ]
+  },
+  {
+   "id": "b27",
+   "kriuk": true,
+   "text": "Kriuk! Kriuk! Kriuk!",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "window_kriuk",
+     "p": {
+      "house": 0
+     }
+    },
+    {
+     "at": 1,
+     "scene": "window_kriuk",
+     "p": {
+      "house": 1
+     }
+    },
+    {
+     "at": 2,
+     "scene": "window_kriuk",
+     "p": {
+      "house": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "b28",
+   "text": "Bayu was practicing guitar, with a bag of Keripik Goyang.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "grind_room",
+     "p": {
+      "who": "bayu"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b29",
+   "text": "Sari was practicing karate, with a bag of Keripik Goyang.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "grind_room",
+     "p": {
+      "who": "sari"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b30",
+   "text": "And my grandma was doing push-ups, with two bags.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "grind_room",
+     "p": {
+      "who": "grandma"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b31",
+   "text": "They all think the chips are my secret.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_secret"
+    }
+   ]
+  },
+  {
+   "id": "b32",
+   "text": "Honestly? They kind of are.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_eat_chip",
+     "p": {
+      "wink": true,
+      "flavor": "manis",
+      "bg": "room"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b33",
+   "text": "Now the whole town is grinding, which is great.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "town_aerial",
+     "p": {
+      "party": false,
+      "grind": true
+     }
+    }
+   ]
+  },
+  {
+   "id": "b34",
+   "text": "Except every store in town is sold out of Keripik Goyang,",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "store_sold_out"
+    }
+   ]
+  },
+  {
+   "id": "b35",
+   "text": "and I'm the only one who's free on a Friday night.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_curb"
+    }
+   ]
+  },
+  {
+   "id": "b36",
+   "text": "So I threw a party.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "hero_party_room"
+    }
+   ]
+  },
+  {
+   "id": "b37",
+   "text": "The only guest was the mayor's goldfish.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "fishbowl_guest"
+    }
+   ]
+  },
+  {
+   "id": "b38",
+   "text": "He brought the last bag. Pedas Nampol.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "fishbowl_pouch"
+    }
+   ]
+  },
+  {
+   "id": "b39",
+   "text": "He's actually a pretty good dancer.",
+   "shots": [
+    {
+     "at": 0,
+     "scene": "fish_dance"
+    }
+   ]
+  },
+  {
+   "id": "b40",
+   "text": "Goyang keripiknya, nampol rasanya!",
+   "gap": 1.6,
+   "shots": [
+    {
+     "at": 0,
+     "scene": "endcard"
+    }
+   ]
+  }
+ ]
+}
